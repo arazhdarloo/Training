@@ -52,8 +52,33 @@ public:
                 break;
             }
         }
-        if(result != -1)
+        if (result != -1)
             productList[result] = name + ',' + price + ',' + number;
+        else
+            cout << "cant find this name!";
+    }
+    void remove(string name)
+    {
+        int result = -1;
+        for (int i = 0; i < productList.size(); i++)
+        {
+            string details = productList[i];
+            stringstream ss(details);
+            string output;
+            char del = ',';
+
+            while (getline(ss, output, del))
+            {
+                if (name == output)
+                {
+                    result = i;
+                    break;
+                }
+                break;
+            }
+        }
+        if (result != -1)
+            productList.erase(productList.begin() + result);
         else
             cout << "cant find this name!";
     }
