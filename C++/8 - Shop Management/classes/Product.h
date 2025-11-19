@@ -10,15 +10,13 @@ class Product
 public:
     Product()
     {
-        //
+        fstream datas("data/products.txt");
+        string data;
+        while (getline(datas, data))
+        {
+            productList.push_back(data);
+        }
     }
-    /*
-        add
-        show
-        edit
-        remove
-        save
-    */
     void add(string name, string price, string number)
     {
         productList.push_back(name + "," + price + "," + number);
@@ -83,7 +81,8 @@ public:
         else
             cout << "cant find this name!";
     }
-    void save(){
+    void save()
+    {
         ofstream file("data/products.txt");
         file << show();
     }

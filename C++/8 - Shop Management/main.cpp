@@ -7,13 +7,7 @@ using namespace std;
 int main()
 {
     Product p;
-    p.add("a","b","s");
-    p.add("b","b","s");
-    cout << p.show();
 
-    p.remove("a");
-    cout << '\n';
     cout << p.show();
-    p.save();
     return 0;
 }
