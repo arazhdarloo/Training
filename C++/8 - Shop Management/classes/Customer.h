@@ -9,7 +9,7 @@ class Customer
 public:
     Customer()
     {
-        fstream datas("data/products.txt");
+        fstream datas("data/customer.txt");
         string data;
         while (getline(datas, data))
         {
@@ -21,7 +21,23 @@ public:
         remove
         show
         getData
+        save
     */
+    void add(string id, string name, string phone)
+    {
+        customerList.push_back(id + "," + name + "," + phone);
+    }
+    string show()
+    {
+        string returnList;
+        for (int i = 0; i < customerList.size(); i++)
+        {
+            returnList += customerList[i] + '\n';
+        }
+
+        return returnList;
+    }
+
 
 private:
     vector<string> customerList;

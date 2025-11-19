@@ -1,15 +1,15 @@
 #include <iostream>
 #include <vector>
 #include "classes/Product.h"
+#include "classes/Customer.h"
 
 using namespace std;
 
 int main()
 {
-    Product p;
-    p.add("keyboard","150000","4");
+    Customer c;
+    c.add("a1","Alireza","09184685357");
 
-    cout << p.show();
-    p.save();
+    cout << c.show();
     return 0;
 }
