@@ -14,5 +14,6 @@ int main()
     p.remove("a");
     cout << '\n';
     cout << p.show();
+    p.save();
     return 0;
 }

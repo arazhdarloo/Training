@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <sstream>
+#include <fstream>
 
 using namespace std;
 
@@ -81,6 +82,10 @@ public:
             productList.erase(productList.begin() + result);
         else
             cout << "cant find this name!";
+    }
+    void save(){
+        ofstream file("data/products.txt");
+        file << show();
     }
 
 private:
