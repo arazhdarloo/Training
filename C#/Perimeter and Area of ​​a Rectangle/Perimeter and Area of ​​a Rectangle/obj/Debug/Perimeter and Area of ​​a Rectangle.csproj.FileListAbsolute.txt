@@ -1,0 +1,7 @@
+D:\Personal\projects\Training\C#\Perimeter and Area of ​​a Rectangle\Perimeter and Area of ​​a Rectangle\bin\Debug\Perimeter_and_Area_of_​​a_Rectangle.exe.config
+D:\Personal\projects\Training\C#\Perimeter and Area of ​​a Rectangle\Perimeter and Area of ​​a Rectangle\bin\Debug\Perimeter_and_Area_of_​​a_Rectangle.exe
+D:\Personal\projects\Training\C#\Perimeter and Area of ​​a Rectangle\Perimeter and Area of ​​a Rectangle\bin\Debug\Perimeter_and_Area_of_​​a_Rectangle.pdb
+D:\Personal\projects\Training\C#\Perimeter and Area of ​​a Rectangle\Perimeter and Area of ​​a Rectangle\obj\Debug\Perimeter and Area of ​​a Rectangle.csproj.AssemblyReference.cache
+D:\Personal\projects\Training\C#\Perimeter and Area of ​​a Rectangle\Perimeter and Area of ​​a Rectangle\obj\Debug\Perimeter and Area of ​​a Rectangle.csproj.CoreCompileInputs.cache
+D:\Personal\projects\Training\C#\Perimeter and Area of ​​a Rectangle\Perimeter and Area of ​​a Rectangle\obj\Debug\Perimeter_and_Area_of_​​a_Rectangle.exe
+D:\Personal\projects\Training\C#\Perimeter and Area of ​​a Rectangle\Perimeter and Area of ​​a Rectangle\obj\Debug\Perimeter_and_Area_of_​​a_Rectangle.pdb
