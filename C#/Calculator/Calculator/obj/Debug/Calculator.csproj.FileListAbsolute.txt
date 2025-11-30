@@ -1,0 +1,14 @@
+D:\Personal\projects\Training\C#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Personal\projects\Training\C#\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Personal\projects\Training\C#\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Personal\projects\Training\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Personal\projects\Training\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Personal\projects\Training\C#\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Personal\projects\Training\C#\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Personal\projects\Training\C#\Calculator (UNI)\Calculator\bin\Debug\Calculator.exe.config
+D:\Personal\projects\Training\C#\Calculator (UNI)\Calculator\bin\Debug\Calculator.exe
+D:\Personal\projects\Training\C#\Calculator (UNI)\Calculator\bin\Debug\Calculator.pdb
+D:\Personal\projects\Training\C#\Calculator (UNI)\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Personal\projects\Training\C#\Calculator (UNI)\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Personal\projects\Training\C#\Calculator (UNI)\Calculator\obj\Debug\Calculator.exe
+D:\Personal\projects\Training\C#\Calculator (UNI)\Calculator\obj\Debug\Calculator.pdb
