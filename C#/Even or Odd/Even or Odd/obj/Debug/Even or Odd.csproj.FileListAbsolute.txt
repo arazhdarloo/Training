@@ -1,0 +1,7 @@
+D:\Personal\projects\Training\C#\Even or Odd\Even or Odd\bin\Debug\Even or Odd.exe.config
+D:\Personal\projects\Training\C#\Even or Odd\Even or Odd\bin\Debug\Even or Odd.exe
+D:\Personal\projects\Training\C#\Even or Odd\Even or Odd\bin\Debug\Even or Odd.pdb
+D:\Personal\projects\Training\C#\Even or Odd\Even or Odd\obj\Debug\Even or Odd.csproj.AssemblyReference.cache
+D:\Personal\projects\Training\C#\Even or Odd\Even or Odd\obj\Debug\Even or Odd.csproj.CoreCompileInputs.cache
+D:\Personal\projects\Training\C#\Even or Odd\Even or Odd\obj\Debug\Even or Odd.exe
+D:\Personal\projects\Training\C#\Even or Odd\Even or Odd\obj\Debug\Even or Odd.pdb
