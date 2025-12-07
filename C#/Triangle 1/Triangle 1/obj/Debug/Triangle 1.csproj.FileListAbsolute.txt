@@ -1,0 +1,7 @@
+D:\Personal\projects\Training\C#\Triangle 1\Triangle 1\bin\Debug\Triangle 1.exe.config
+D:\Personal\projects\Training\C#\Triangle 1\Triangle 1\bin\Debug\Triangle 1.exe
+D:\Personal\projects\Training\C#\Triangle 1\Triangle 1\bin\Debug\Triangle 1.pdb
+D:\Personal\projects\Training\C#\Triangle 1\Triangle 1\obj\Debug\Triangle 1.csproj.AssemblyReference.cache
+D:\Personal\projects\Training\C#\Triangle 1\Triangle 1\obj\Debug\Triangle 1.csproj.CoreCompileInputs.cache
+D:\Personal\projects\Training\C#\Triangle 1\Triangle 1\obj\Debug\Triangle 1.exe
+D:\Personal\projects\Training\C#\Triangle 1\Triangle 1\obj\Debug\Triangle 1.pdb
