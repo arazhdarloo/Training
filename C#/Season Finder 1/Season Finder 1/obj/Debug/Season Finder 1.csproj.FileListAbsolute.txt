@@ -1,0 +1,7 @@
+D:\Personal\projects\Training\C#\Season Finder 1\Season Finder 1\bin\Debug\Season Finder 1.exe.config
+D:\Personal\projects\Training\C#\Season Finder 1\Season Finder 1\bin\Debug\Season Finder 1.exe
+D:\Personal\projects\Training\C#\Season Finder 1\Season Finder 1\bin\Debug\Season Finder 1.pdb
+D:\Personal\projects\Training\C#\Season Finder 1\Season Finder 1\obj\Debug\Season Finder 1.csproj.AssemblyReference.cache
+D:\Personal\projects\Training\C#\Season Finder 1\Season Finder 1\obj\Debug\Season Finder 1.csproj.CoreCompileInputs.cache
+D:\Personal\projects\Training\C#\Season Finder 1\Season Finder 1\obj\Debug\Season Finder 1.exe
+D:\Personal\projects\Training\C#\Season Finder 1\Season Finder 1\obj\Debug\Season Finder 1.pdb

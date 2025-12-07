@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Season Finder 1", "Season Finder 1\Season Finder 1.csproj", "{AD96D70D-9D9F-4178-BB27-CB7E6FB45810}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD96D70D-9D9F-4178-BB27-CB7E6FB45810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD96D70D-9D9F-4178-BB27-CB7E6FB45810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD96D70D-9D9F-4178-BB27-CB7E6FB45810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD96D70D-9D9F-4178-BB27-CB7E6FB45810}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32B030D0-B597-46C6-B0B2-7AEE67FF3D96}
+	EndGlobalSection
+EndGlobal
