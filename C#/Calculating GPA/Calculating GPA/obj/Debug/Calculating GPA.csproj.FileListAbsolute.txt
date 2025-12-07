@@ -1,0 +1,7 @@
+D:\Personal\projects\Training\C#\Calculating GPA\Calculating GPA\bin\Debug\Calculating GPA.exe.config
+D:\Personal\projects\Training\C#\Calculating GPA\Calculating GPA\bin\Debug\Calculating GPA.exe
+D:\Personal\projects\Training\C#\Calculating GPA\Calculating GPA\bin\Debug\Calculating GPA.pdb
+D:\Personal\projects\Training\C#\Calculating GPA\Calculating GPA\obj\Debug\Calculating GPA.csproj.AssemblyReference.cache
+D:\Personal\projects\Training\C#\Calculating GPA\Calculating GPA\obj\Debug\Calculating GPA.csproj.CoreCompileInputs.cache
+D:\Personal\projects\Training\C#\Calculating GPA\Calculating GPA\obj\Debug\Calculating GPA.exe
+D:\Personal\projects\Training\C#\Calculating GPA\Calculating GPA\obj\Debug\Calculating GPA.pdb
