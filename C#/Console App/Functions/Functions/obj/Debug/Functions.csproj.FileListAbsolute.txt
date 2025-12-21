@@ -1,0 +1,7 @@
+C:\Users\Alireza\Desktop\Projects\Training\C#\Console App\Functions\Functions\bin\Debug\Functions.exe.config
+C:\Users\Alireza\Desktop\Projects\Training\C#\Console App\Functions\Functions\bin\Debug\Functions.exe
+C:\Users\Alireza\Desktop\Projects\Training\C#\Console App\Functions\Functions\bin\Debug\Functions.pdb
+C:\Users\Alireza\Desktop\Projects\Training\C#\Console App\Functions\Functions\obj\Debug\Functions.csproj.AssemblyReference.cache
+C:\Users\Alireza\Desktop\Projects\Training\C#\Console App\Functions\Functions\obj\Debug\Functions.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\Desktop\Projects\Training\C#\Console App\Functions\Functions\obj\Debug\Functions.exe
+C:\Users\Alireza\Desktop\Projects\Training\C#\Console App\Functions\Functions\obj\Debug\Functions.pdb
