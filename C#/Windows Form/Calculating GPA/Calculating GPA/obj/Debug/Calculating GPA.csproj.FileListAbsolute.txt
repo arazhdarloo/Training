@@ -1,0 +1,10 @@
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Calculating GPA\Calculating GPA\bin\Debug\Calculating GPA.exe.config
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Calculating GPA\Calculating GPA\bin\Debug\Calculating GPA.exe
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Calculating GPA\Calculating GPA\bin\Debug\Calculating GPA.pdb
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Calculating GPA\Calculating GPA\obj\Debug\Calculating GPA.csproj.AssemblyReference.cache
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Calculating GPA\Calculating GPA\obj\Debug\Calculating_GPA.Form1.resources
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Calculating GPA\Calculating GPA\obj\Debug\Calculating_GPA.Properties.Resources.resources
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Calculating GPA\Calculating GPA\obj\Debug\Calculating GPA.csproj.GenerateResource.cache
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Calculating GPA\Calculating GPA\obj\Debug\Calculating GPA.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Calculating GPA\Calculating GPA\obj\Debug\Calculating GPA.exe
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Calculating GPA\Calculating GPA\obj\Debug\Calculating GPA.pdb
