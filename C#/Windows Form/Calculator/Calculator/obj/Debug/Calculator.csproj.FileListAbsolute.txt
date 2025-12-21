@@ -1,0 +1,10 @@
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Calculator\Calculator\obj\Debug\Calculator.pdb
