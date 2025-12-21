@@ -1,0 +1,10 @@
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Season Finder\Season Finder\bin\Debug\Season Finder.exe.config
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Season Finder\Season Finder\bin\Debug\Season Finder.exe
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Season Finder\Season Finder\bin\Debug\Season Finder.pdb
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Season Finder\Season Finder\obj\Debug\Season Finder.csproj.AssemblyReference.cache
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Season Finder\Season Finder\obj\Debug\Season_Finder.Form1.resources
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Season Finder\Season Finder\obj\Debug\Season_Finder.Properties.Resources.resources
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Season Finder\Season Finder\obj\Debug\Season Finder.csproj.GenerateResource.cache
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Season Finder\Season Finder\obj\Debug\Season Finder.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Season Finder\Season Finder\obj\Debug\Season Finder.exe
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Season Finder\Season Finder\obj\Debug\Season Finder.pdb
