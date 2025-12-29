@@ -1,0 +1,7 @@
+C:\Users\Alireza\Desktop\Projects\Training\C#\Console App\Class Training - console\Class Training - console\bin\Debug\Class Training - console.exe.config
+C:\Users\Alireza\Desktop\Projects\Training\C#\Console App\Class Training - console\Class Training - console\bin\Debug\Class Training - console.exe
+C:\Users\Alireza\Desktop\Projects\Training\C#\Console App\Class Training - console\Class Training - console\bin\Debug\Class Training - console.pdb
+C:\Users\Alireza\Desktop\Projects\Training\C#\Console App\Class Training - console\Class Training - console\obj\Debug\Class Training - console.csproj.AssemblyReference.cache
+C:\Users\Alireza\Desktop\Projects\Training\C#\Console App\Class Training - console\Class Training - console\obj\Debug\Class Training - console.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\Desktop\Projects\Training\C#\Console App\Class Training - console\Class Training - console\obj\Debug\Class Training - console.exe
+C:\Users\Alireza\Desktop\Projects\Training\C#\Console App\Class Training - console\Class Training - console\obj\Debug\Class Training - console.pdb
