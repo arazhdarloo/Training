@@ -1,0 +1,10 @@
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Class Training - windowsForm\Class Training - windowsForm\obj\Debug\Class Training - windowsForm.csproj.AssemblyReference.cache
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Class Training - windowsForm\Class Training - windowsForm\obj\Debug\Class_Training___windowsForm.Properties.Resources.resources
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Class Training - windowsForm\Class Training - windowsForm\obj\Debug\Class Training - windowsForm.csproj.GenerateResource.cache
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Class Training - windowsForm\Class Training - windowsForm\obj\Debug\Class Training - windowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Class Training - windowsForm\Class Training - windowsForm\bin\Debug\Class Training - windowsForm.exe.config
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Class Training - windowsForm\Class Training - windowsForm\bin\Debug\Class Training - windowsForm.exe
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Class Training - windowsForm\Class Training - windowsForm\bin\Debug\Class Training - windowsForm.pdb
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Class Training - windowsForm\Class Training - windowsForm\obj\Debug\Class Training - windowsForm.exe
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Class Training - windowsForm\Class Training - windowsForm\obj\Debug\Class Training - windowsForm.pdb
+C:\Users\Alireza\Desktop\Projects\Training\C#\Windows Form\Class Training - windowsForm\Class Training - windowsForm\obj\Debug\Class_Training___windowsForm.Form1.resources
