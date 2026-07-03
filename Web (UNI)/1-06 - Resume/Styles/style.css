@@ -1,0 +1,180 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: #f4f4f4;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+body {
+    direction: rtl;
+    background: #000;
+}
+
+strong {
+    color: #895adf;
+}
+
+
+h2 {
+    color: #895adf;
+    padding: 20px 0;
+}
+
+nav {
+    max-width: 100%;
+    display: flex;
+    padding: 30px 80px 30px 80px;
+    justify-content: space-between;
+}
+
+nav .items ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav .logo p {
+    color: #895adf;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+#home {
+    max-width: 100%;
+    display: flex;
+    margin: 11% 0;
+}
+
+#home div {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#home .content {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0 10% 0 10%;
+}
+
+#home .content p {
+    margin: 5px 0 5px 0;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+#home .profile img {
+    width: 50%;
+}
+
+#about {
+    padding: 0 10%;
+}
+
+#about p {
+    padding: 5px 15px;
+    text-align: justify;
+}
+
+#skills,
+#projects,
+#contact {
+    padding: 30px 10%;
+}
+
+#skills table {
+    width: 100%;
+}
+
+#skills table * {
+    text-align: center;
+}
+
+#skills table thead tr th {
+    padding: 15px;
+    color: #895adf;
+}
+
+#skills table td span {
+    display: inline-flex;
+    border: 1px solid #895adf;
+    width: 10px;
+    height: 10px;
+    margin: 5px 0;
+    border-radius: 50%;
+}
+
+#skills table td span.active {
+    background: #895adf;
+}
+
+#projects .projects {
+    display: flex;
+    padding: 20px 15px;
+}
+
+#projects .projects .card {
+    padding: 30px;
+    border: 1px solid #895adf;
+    margin: 0 10px;
+    border-radius: 15px;
+}
+
+#projects .projects .card img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+
+#projects .projects .card .title {
+    text-align: center;
+    padding: 20px;
+    font-size: large;
+    font-weight: bold;
+    color: #b9a1e7;
+}
+
+#projects .projects .card .description {
+    text-align: justify;
+    height: 50px;
+}
+
+#projects .projects .card a {
+    display: block;
+    margin-top: 15px;
+    text-align: center;
+    background-color: #895adf;
+    padding: 10px 0;
+    border-radius: 10px;
+}
+
+#projects .projects .card a:hover {
+    background-color: #000;
+}
+
+#projects .projects .card .inProgress {
+    margin-top: 15px;
+    text-align: center;
+    background-color: #895adf;
+    padding: 10px 0;
+    border-radius: 10px;
+}
+
+#contact .cards {
+    display: flex;
+    gap: 20px;
+}
+
+#contact .cards .item {
+    padding: 15px 30px;
+    border: 1px solid;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#contact .cards .item:hover {
+    background: #895adf;
+}
